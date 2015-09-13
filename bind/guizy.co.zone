@@ -8,6 +8,11 @@ $ORIGIN guizy.co.
 			      1w ; expire
 			      3h ; minimum
 			     )
-@  1D  IN  NS @ 
-   1D  IN  A  127.0.0.1 @
+
+
+			NS		ns1 
+
+calvin	1D	IN	A  	192.168.178.4
+susy		IN	A 	192.168.178.14
+
 
